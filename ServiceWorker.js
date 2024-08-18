@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-BookAR-0.1";
 const contentToCache = [
-    "Build/BuildMain.loader.js",
-    "Build/BuildMain.framework.js",
-    "Build/BuildMain.data",
-    "Build/BuildMain.wasm",
+    "Build/BuildTest.loader.js",
+    "Build/BuildTest.framework.js",
+    "Build/BuildTest.data",
+    "Build/BuildTest.wasm",
     "TemplateData/style.css"
 
 ];
